@@ -1,0 +1,45 @@
+section {
+  margin-top: 50px;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.mshobeli {
+  margin-top: 100px;
+  width: 100%;
+  height: 500px;
+  border: 2px solid black;
+  display: flex;
+  direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.shvili {
+  width: 70px;
+  height: 70px;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
